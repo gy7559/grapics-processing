@@ -1,7 +1,7 @@
 # Report 2-2
 ## 안동대학교 윤효원
 
-...
+```
 
 PFont f;
 void setup(){
@@ -22,4 +22,4 @@ void draw(){
   if(keyPressed) sp = key-'0';
 }
 
-...
+```
