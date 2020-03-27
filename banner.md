@@ -1,6 +1,8 @@
 # Report 2-2
 ## 안동대학교 윤효원
+
 ...
+
 void setup(){
   size(800,300);
   textSize(150);
