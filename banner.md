@@ -1,7 +1,7 @@
-# Report 2-2
+# Report 2-1
 ## 안동대학교 윤효원
 
-...
+```
 
 void setup(){
   size(800,300);
@@ -17,4 +17,4 @@ void draw(){
   i= i+dir*sp;
   if(keyPressed) sp = key-'0';
 }
-...
+```
