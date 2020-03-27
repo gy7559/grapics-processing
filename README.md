@@ -2,6 +2,7 @@
 ## 안동대학교 윤효원
 
 ...
+
 PFont f;
 void setup(){
   size(800,300);
@@ -20,4 +21,5 @@ void draw(){
   i= i+dir*sp;
   if(keyPressed) sp = key-'0';
 }
+
 ...
